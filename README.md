@@ -1,2 +1,2 @@
 # HackerRankSolutions
-Hacker rank solutions
+Hacker rank solutions of the Interview Preparation Kit to help everyone.
